@@ -1,4 +1,7 @@
+# To install face_recognition, first use "pip install cmake", then "pip install face-recognition", or the linux equivalent
 import face_recognition
+
+# To install cv2, use "pip install opencv-python-headless"
 import cv2
 
 # Get a reference to your webcam 
